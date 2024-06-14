@@ -1,8 +1,18 @@
 # project
-#Google Playstore Case Study
-vấn đề gì
+#Google Playstore Case Study:Phân tích các APP trên Google Playstore
+Dữ Liệu
+Nguồn Dữ Liệu: Dữ liệu được thu thập từ Google Play Store và bao gồm các thuộc tính sau:
 
-The team at Google Play Store wants to develop a feature that would enable them to boost visibility for the most promising apps. Now, this analysis would require a preliminary understanding of the features that define a well-performing app. You can ask questions like:
-
-Does a higher size or price necessarily mean that an app would perform better than the other apps?
-Or does a higher number of installs give a clear picture of which app would have a better rating than others?
+App: Tên ứng dụng
+Category: Thể loại ứng dụng
+Rating: Đánh giá trung bình của ứng dụng
+Reviews: Số lượng đánh giá
+Size: Kích thước của ứng dụng (tính bằng KB)
+Installs: Số lượt cài đặt
+Type: Loại ứng dụng (Miễn phí hoặc Trả phí)
+Price: Giá của ứng dụng (nếu có)
+Content Rating: Xếp hạng nội dung
+Genres: Thể loại chi tiết
+Last Updated: Ngày cập nhật cuối cùng
+Current Ver: Phiên bản hiện tại
+Android Ver: Phiên bản Android yêu cầu

@@ -1,5 +1,5 @@
 # Google Playstore Case Study:Phân tích các APP trên Google Playstore
-**Mô tả ngắn gọn:** Một phân tích các APP trên Google Play để hiểu rõ hơn về các yếu tố ảnh hưởng đến sự phổ biến và hiệu suất của chúng.
+**Mô tả ngắn gọn:** Một phân tích các APP trên Google Play để hiểu rõ hơn về các yếu tố ảnh hưởng đến sự phổ biến của 1 số ứng dụng trên google playstore
 
 ## Giới Thiệu
 
@@ -50,7 +50,10 @@ Xử lý giá trị thiếu
 
 Xử lý các giá trị không chính xác
 
--Bước 2: Kiểm tra lại dữ liệu đã được xử lý và làm sạch
+-Bước 2: Kiểm tra lại dữ liệu có ý nghĩa(có bị sai về cấu trúc dữ liệu hay sai về bối cảnh hay không)
+(Xếp hạng nằm trong khoảng từ 1 đến 5 cho tất cả các ứng dụng.
+Số lượt đánh giá nhỏ hơn hoặc bằng số lượt cài đặt.
+Ứng dụng miễn phí không được có giá lớn hơn 0)
 
 -Bước 3: Vẽ dashboard và phân tích bằng các biểu đồ
 

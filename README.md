@@ -98,7 +98,7 @@ Loại đánh giá nội dung phổ biến nhất: Everyone, chiếm phần lớ
 Nhận xét chi tiết:
 Biến động rõ ràng: Điểm đánh giá trung bình có sự biến động rõ ràng theo tháng. Các tháng đầu năm và cuối năm có sự giảm nhẹ, trong khi các tháng giữa năm có xu hướng tăng dần.
 
-Đỉnh điểm vào tháng 8: Điểm đánh giá cao nhất vào tháng 8 (~4.28), cho thấy sự ưa thích hoặc hài lòng cao nhất của người dùng trong khoảng thời gian này.
+Đỉnh điểm vào tháng 8: Điểm đánh giá cao nhất vào tháng 7 (), cho thấy sự ưa thích hoặc hài lòng cao nhất của người dùng trong khoảng thời gian này.
 
 Sự giảm sút vào tháng 9: Điểm đánh giá giảm đáng kể vào tháng 9 (~4.05), có thể là dấu hiệu của sự không hài lòng hoặc vấn đề phát sinh trong thời gian này.
 
